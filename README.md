@@ -4,7 +4,7 @@ This repository contains my solutions for the annual Advent of Code programming 
 # What is Advent of Code?
 Advent of Code is an annual series of small programming challenges, released daily from December 1st to December 25th. Each day presents a new two-part puzzle that can be solved using any programming language. It's a fantastic way to practice problem-solving, learn new algorithms and data structures, and improve your coding skills.
 
-You can learn more about Advent of Code and participate yourself at adventofcode.com.
+You can learn more about Advent of Code and participate yourself at [adventofcode.com](https://adventofcode.com/).
 
 # What I learned from those challenges ?
 For me it was a good experience where each challenge presented a new problem and you had to figure it out the solution. 
