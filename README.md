@@ -1,4 +1,4 @@
-# AdventOfCode
+# Advent of Code
 This repository contains my solutions for the annual Advent of Code programming puzzles. Input data and problem description can be viewed in the Advent of Code website. I didn't participate the competition that happens in december and you have one day to solve the challenge. I solved them at my own pace, taking few days for each one.
 
 # What is Advent of Code?
