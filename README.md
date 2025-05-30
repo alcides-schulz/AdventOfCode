@@ -12,10 +12,9 @@ I tried to solve by myself and when got stuck I would read about how other progr
 
 # Some general concepts that are used in the challenges.
 - Graph Theory Fundamentals: Understanding and implementing algorithms like Breadth-First Search (BFS) and Depth-First Search (DFS) for pathfinding or connectivity problems.
-- Dynamic Programming (DP): Recognizing when a problem can be solved by breaking it into overlapping subproblems and storing results to avoid recomputation. This is a common pattern for optimizing solutions to complex problems.
+- Dynamic Programming: Recognizing when a problem can be solved by breaking it into overlapping subproblems and storing results to avoid recomputation. This is a common pattern for optimizing solutions to complex problems.
 - Recursion: Developing elegant solutions for problems that can be defined in terms of smaller instances of themselves.
 - Advanced Data Structures: Using sets for unique elements, queues for ordered processing, and stacks for LIFO (Last-In, First-Out) operations.
-- Regular Expressions: Efficiently extracting specific patterns from text.
 
 # General Learning Across All Challenges
 - Problem-Solving Skills: The core of Advent of Code is improving your ability to analyze a problem, devise a plan, and implement it.
@@ -23,7 +22,7 @@ I tried to solve by myself and when got stuck I would read about how other progr
 - Testing: Developing good testing habits to ensure your solution works for various edge cases and the full input.
 - Language Proficiency: Becoming more comfortable and fluent in your chosen programming language by applying its features to diverse problems.
 - Reading Documentation: Often, the efficient solution relies on a built-in function or library that you might not be familiar with, encouraging you to explore language documentation.
-- Community Learning: Observing how others solve the same problems (after solving them yourself) can expose you to new techniques, algorithms, and elegant coding styles.
+- Community Learning: Observing how others solve the same problems (after solving them by myself) can expose you to new techniques, algorithms, and elegant coding styles.
 - Persistence and Resilience: Some problems are truly challenging, and sticking with them, even when stuck, fosters valuable problem-solving resilience.
 
 # What's next ?
